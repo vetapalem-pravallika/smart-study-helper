@@ -3,13 +3,13 @@
 
 ## 🎬 Demo
 
-Watch the demo video here: [YouTube Link](YOUR_VIDEO_LINK_HERE)  
+Watch the demo video here:  
 
 ---
 
 ## 🔗 Try It Out
 
-- **GitHub Repo**: [https://github.com/yourusername/smart-study-helper](https://github.com/yourusername/smart-study-helper)  
+- **GitHub Repo**: 
 
 ---
 
